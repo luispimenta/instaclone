@@ -26,7 +26,7 @@ export class Home {
     },
     {
       id: 2,
-      img: 'https://pbs.twimg.com/profile_images/726955832785571840/8OxhcDxl_400x400.jpg',
+      img: 'http://ionicframework.com/dist/preview-app/www/assets/img/sarah-avatar.png.jpeg',
       user_name: 'maxlynch'
     },
     {
@@ -36,7 +36,7 @@ export class Home {
     },
     {
       id: 4,
-      img: 'https://pbs.twimg.com/profile_images/479090794058379264/84TKj_qa_400x400.jpeg',
+      img: 'http://ionicframework.com/dist/preview-app/www/assets/img/sarah-avatar.png.jpeg',
       user_name: 'adam_bradley'
     },
     {

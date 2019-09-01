@@ -20,7 +20,7 @@ export class Messages {
     },
     {
       id: 2,
-      profile_img: 'https://pbs.twimg.com/profile_images/726955832785571840/8OxhcDxl_400x400.jpg',
+      profile_img: 'https://avatars1.githubusercontent.com/u/918975?v=3&s=12',
       sender: 'maxlynch',
       last_message: 'LOL. Ionic in 2017',
       time: '11h'
@@ -34,7 +34,7 @@ export class Messages {
     },
     {
       id: 4,
-      profile_img: 'https://pbs.twimg.com/profile_images/479090794058379264/84TKj_qa_400x400.jpeg',
+      profile_img: 'http://ionicframework.com/dist/preview-app/www/assets/img/sarah-avatar.png.jpeg',
       sender: 'adam_bradley',
       last_message: 'Typescript <3 me',
       time: '3d'

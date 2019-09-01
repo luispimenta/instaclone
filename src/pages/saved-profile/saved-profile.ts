@@ -14,13 +14,13 @@ export class SavedProfile {
       id: 1,
       username: 'candelibas',
       profile_img: 'https://avatars1.githubusercontent.com/u/918975?v=3&s=120',
-      post_img: 'https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/13473123_1544898359150795_654626889_n.jpg'
+      post_img: 'http://ionicframework.com/dist/preview-app/www/assets/img/advance-card-bttf.png'
     },
     {
       id: 2,
       username: 'candelibas',
       profile_img: 'https://avatars1.githubusercontent.com/u/918975?v=3&s=120',
-      post_img: 'https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/12940826_1673029922963013_921771297_n.jpg'
+      post_img: 'http://ionicframework.com/dist/preview-app/www/assets/img/advance-card-bttf.png'
     }
   ];
 

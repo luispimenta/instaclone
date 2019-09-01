@@ -19,7 +19,7 @@ export class NewMessage {
     },
     {
       id: 2,
-      profile_img: 'https://pbs.twimg.com/profile_images/726955832785571840/8OxhcDxl_400x400.jpg',
+      profile_img: 'https://avatars1.githubusercontent.com/u/918975?v=3&s=12',
       username: 'maxlynch'
     },
     {
@@ -29,7 +29,7 @@ export class NewMessage {
     },
     {
       id: 4,
-      profile_img: 'https://pbs.twimg.com/profile_images/479090794058379264/84TKj_qa_400x400.jpeg',
+      profile_img: 'https://avatars1.githubusercontent.com/u/918975?v=3&s=12',
       username: 'adam_bradley'
     },
     {
